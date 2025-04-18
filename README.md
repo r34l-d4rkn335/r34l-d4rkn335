@@ -29,7 +29,6 @@ I'm currently diving into:
 ![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-333?logo=generic)
 ![SSH](https://img.shields.io/badge/-SSH-333?logo=ssh)
 ![OpenVPN](https://img.shields.io/badge/-OpenVPN-333?logo=openvpn)
-![Docker](https://img.shields.io/badge/-Docker-333?logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333?logo=kubernetes)
 ![IPSec](https://img.shields.io/badge/-IPSec-333?logo=generic)
 ![Metasploit](https://img.shields.io/badge/-Metasploit-333?logo=metasploit)
