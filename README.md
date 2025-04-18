@@ -24,6 +24,21 @@ I'm currently diving into:
 ![Bash](https://img.shields.io/badge/-Bash-333?logo=gnu-bash)
 ![Java](https://img.shields.io/badge/-Java-333?logo=java)
 ![PHP](https://img.shields.io/badge/-PHP-333?logo=php)
+![Wireshark](https://img.shields.io/badge/-Wireshark-333?logo=wireshark)
+![Nmap](https://img.shields.io/badge/-Nmap-333?logo=nmap)
+![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-333?logo=generic)
+![SSH](https://img.shields.io/badge/-SSH-333?logo=ssh)
+![OpenVPN](https://img.shields.io/badge/-OpenVPN-333?logo=openvpn)
+![Docker](https://img.shields.io/badge/-Docker-333?logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-333?logo=kubernetes)
+![IPSec](https://img.shields.io/badge/-IPSec-333?logo=generic)
+![Metasploit](https://img.shields.io/badge/-Metasploit-333?logo=metasploit)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-333?logo=burpsuite)
+![WiFi](https://img.shields.io/badge/-WiFi-333?logo=wifi)
+![Cisco](https://img.shields.io/badge/-Cisco-333?logo=cisco)
+![Netcat](https://img.shields.io/badge/-Netcat-333?logo=generic)
+![Snort](https://img.shields.io/badge/-Snort-333?logo=snort)
+![Firewall](https://img.shields.io/badge/-Firewall-333?logo=generic)
 
 
 
